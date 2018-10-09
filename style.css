@@ -1,3 +1,6 @@
+h1,h2{
+    text-align: center;
+}
 body{
     background: #2b3f58;
     display: block;
@@ -38,4 +41,18 @@ body{
     text-align: center;
     padding-top: 30px;
     border-radius: 10px;
+}
+.content_rezume{
+    padding: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: white;
+    width: 350px;
+    height: 920px;
+    margin: 50px auto;
+    border-radius: 5px; 
+    box-shadow: 12px 12px 10px;
 }
