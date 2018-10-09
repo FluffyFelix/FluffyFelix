@@ -7,22 +7,24 @@ body{
 }
 .content{
     position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
+    top:0;
+    left:0;
+    right:0;
     background: white;
-    width: 350px;
-    height: 300px;
+    width: 550px;
     margin: 50px auto;
     border-radius: 5px; 
     box-shadow: 12px 12px 10px;
 }
+.popup_img{
+    margin:auto;
+    width: 140px;
+    height: 140px;
+  }
 .buttons{
     width: 200px;
     height: 40px;
     margin: 25px auto;
-
 }
 .button{
     margin-left: 10px;
@@ -36,23 +38,9 @@ body{
 .view{
     border: 1px double black;
     margin: auto;
-    width: 300px;
-    height: 150px;
+    width: 500px;
     text-align: center;
     padding-top: 30px;
     border-radius: 10px;
 }
-.content_rezume{
-    padding: 20px;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: white;
-    width: 350px;
-    height: 920px;
-    margin: 50px auto;
-    border-radius: 5px; 
-    box-shadow: 12px 12px 10px;
-}
+
